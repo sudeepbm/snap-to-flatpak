@@ -20,7 +20,7 @@ P.S.: This script will work on any other Ubuntu based linux distro using desktop
 
 ## Running the script
 
-Clone [this](https://github.com/sudeepbm/snap-to-flatpak.git) repo or download the zip from releases section and unzip it. Then move to the snap-to-flatpak directory and then run `snap-to-flatpak.sh` script.
+Clone [this](https://github.com/sudeepbm/snap-to-flatpak.git) repo or download the zip from [releases](https://github.com/sudeepbm/snap-to-flatpak/releases) section and unzip it. Then move to the snap-to-flatpak directory and then run `snap-to-flatpak.sh` script.
 
 ``` {.bash}
 git clone https://github.com/sudeepbm/snap-to-flatpak.git
