@@ -16,19 +16,23 @@ P.S.: This script will work on any other Ubuntu based linux distro using desktop
 
 ## Running the script
 
-Clone this repo and move to the snap-to-flatpak directory and then run `snap-to-flatpak`. After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`. If you want to terminate the execution of the script at this stage, type `N` or `n` or `NO` or `no`. <br>
-The script will list all snap packages installed and remove them one by one until all snaps are removed completely. <br>
-Then it will remove the snapd package permanently. <br>
-It will then create a preference file to prevent the downloading of snaps in future. <br>
-
-
-
+Clone this repo and move to the snap-to-flatpak directory and then run `snap-to-flatpak`.
 
 ``` {.bash}
 git clone https://github.com/sudeepbm/snap-to-flatpak.git
 cd snap-to-flatpak
 sudo ./snap-to-flatpak
 ```
+
+After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`. If you want to terminate the execution of the script at this stage, type `N` or `n` or `NO` or `no`.
+
+The script will list all snap packages installed and remove them one by one until all snaps are removed completely. Then it will remove the snapd package permanently. It will then create a preference file to prevent the downloading of snaps in future.
+
+
+
+
+
+
 
 
 
