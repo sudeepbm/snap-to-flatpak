@@ -25,6 +25,7 @@ Clone [this](https://github.com/sudeepbm/snap-to-flatpak.git) repo and move to t
 ``` {.bash}
 git clone https://github.com/sudeepbm/snap-to-flatpak.git
 cd snap-to-flatpak
+chmod +x snap-to-flatpak
 sudo ./snap-to-flatpak
 ```
 
@@ -38,7 +39,7 @@ After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`.
 
 1. `Firefox` will be installed from the official mozilla repositories and creates a preference file to give priority to the mozilla repositories for future updates of Firefox.
 
-1. Flatpak support will be added by installing flatpak plugin for the gnome software centre and adding the flatpak repo.
+1. [**`Flatpak`**](https://flatpak.org) support will be added by installing flatpak plugin for the gnome software centre and adding the flatpak repo.
 
 
 
@@ -65,3 +66,7 @@ _**Note : This script will delete all data of snap packages and will not be reco
 ## Friendly notice
 
 **It is important to clarify that the intention here is not to criticize the quality of Snaps or to cause any form of harm. The provided script intends to offer assistance to individuals who hold a preference for Flatpaks.**
+
+##
+
+If you found this repo useful, don't hesitate to share with others.
