@@ -71,4 +71,5 @@ This script is provided as-is. Use it at your own risk. it worked on my system s
 
 ##
 
-If you found this repo useful, don't hesitate to share with others.
+_**If you found this repo useful, don't hesitate to share with others.
+And feel free to report issues if any.**_
