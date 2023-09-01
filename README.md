@@ -1,3 +1,12 @@
+<div class="row">
+  <div class="column">
+    <img src="Images/logo.png" alt="logo">
+  </div>
+  <div class="column">
+    <img src="Images/logo1.png" alt="logo1">
+  </div>
+</div>
+
 <h1 align="center">
   snap-to-flatpak
 </h1>
