@@ -56,9 +56,9 @@ Then run `snap-to-flatpak.sh` script as a sudo user.
 sudo ./snap-to-flatpak
 ```
 
-<img src="Images/snap-to-flatpak execute.png" alt="execute"/>
-
 After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`. If you want to terminate the execution of the script at this stage, type `N` or `n` or `NO` or `no`.
+
+<img src="Images/snap-to-flatpak execute.png" alt="execute"/>
 
 Note : Please make sure to execute this script as a sudo user.
 
