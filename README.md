@@ -46,7 +46,7 @@ sudo ./snap-to-flatpak
 
 After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`. If you want to terminate the execution of the script at this stage, type `N` or `n` or `NO` or `no`.
 
-Note : Please execute this script as a sudo user.
+Note : Please make sure to execute this script as a sudo user.
 
 ## Working of the script
 
@@ -56,7 +56,7 @@ Note : Please execute this script as a sudo user.
 
 1. `Firefox` will be installed from the official mozilla repositories and creates a preference file to give priority to the mozilla repositories for future updates of Firefox.
 
-1. [**`Flatpak`**](https://flatpak.org) support will be added by installing flatpak plugin for the gnome software centre and adding the flatpak repo.
+1. **[`Flatpak`](https://flatpak.org)** support will be added by installing flatpak plugin for the gnome software centre and adding the flatpak repo.
 
 1. Wait patiently for the script to complete it's work.
 
