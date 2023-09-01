@@ -20,25 +20,33 @@ P.S.: This script will work on any other Ubuntu based linux distro using desktop
 
 ## Running the script
 
-Clone [this](https://github.com/sudeepbm/snap-to-flatpak.git) repo or download the zip from [releases](https://github.com/sudeepbm/snap-to-flatpak/releases) section and unzip it. Then move to the snap-to-flatpak directory and then run `snap-to-flatpak.sh` script.
+Clone [this](https://github.com/sudeepbm/snap-to-flatpak.git) repo or download the zip from [releases](https://github.com/sudeepbm/snap-to-flatpak/releases) section and unzip it.
 
 ``` {.bash}
 git clone https://github.com/sudeepbm/snap-to-flatpak.git
 ```
 
+Then move to the snap-to-flatpak directory
+
 ``` {.bash}
 cd snap-to-flatpak
 ```
 
+Make the script executable by the following command.
+
 ``` {.bash}
 chmod +x snap-to-flatpak
 ```
+
+Then run `snap-to-flatpak.sh` script as a sudo user.
 
 ``` {.bash}
 sudo ./snap-to-flatpak
 ```
 
 After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`. If you want to terminate the execution of the script at this stage, type `N` or `n` or `NO` or `no`.
+
+Note : Please execute this script as a sudo user.
 
 ## Working of the script
 
