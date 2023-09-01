@@ -1,9 +1,9 @@
-<div id="banner">
-  <div class="inline-block">
-    <img src ="Images/logo.png">
+<div id="banner" style="overflow: hidden;justify-content:space-around;">
+  <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+    <img src="Images/logo.png">
   </div>
-  <div class="inline-block">
-    <img src ="Images/logo1.png">
+  <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+    <img src="Images/logo1.png">
   </div>
 </div>
 
