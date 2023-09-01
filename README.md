@@ -19,7 +19,7 @@ This script will be helpful for those users who prefer flatpaks over snaps.
 ## Status of this script
 This script is released as `v1.0` on August 30,2023.
 
-This script has been tested on `Ubuntu linux 23.04`. This script will work on any Ubuntu based linux distro with snaps using `gnome desktop`.
+This script has been tested on `Ubuntu linux 23.04`. This script will work on any Ubuntu based linux distro with snaps using `gnome desktop environment`.
 
 P.S.: This script will work on any other Ubuntu based linux distro using desktop managers other than 'gnome' but be prepared for the 'gtk apps'.
 
