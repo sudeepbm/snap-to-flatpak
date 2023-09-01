@@ -2,13 +2,13 @@
    <b>snap-to-flatpak</b>
 </h1>
 
-<p align="center"><b>Get rid of snap packages and install flatpak apps support</b></p>
-
 <h1 align="center">
 <img src="Images/logo.png" height="100" width="200"/>
 <br>
 <img src="Images/logo1.png" height="150" width="250"/>
 </h1>
+
+<p align="center"><b>Get rid of snap packages and install flatpak apps support</b></p>
 
 ## Introduction
 
