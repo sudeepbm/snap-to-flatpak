@@ -99,5 +99,5 @@ Licensed under [MIT LICENSE](LICENSE)
 
 ##
 
-_**If you found this repo useful, don't hesitate to share with others.
-And feel free to report issues if any.**_
+_**If you found this repo useful, don't hesitate to share with others.<br>
+Feel free to report issues if any.**_
