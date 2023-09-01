@@ -77,9 +77,9 @@ If you have any feedback, please reach out to me at [Mail]()
 ## Disclaimer
 This script is provided as-is. Use it at your own risk. it worked on my system so idk if it will work on yours.
 
-## Licence
+## License
 
-Licensed under [MIT LICENCE](licence)
+Licensed under [MIT LICENSE](LICENSE)
 
 ##
 
