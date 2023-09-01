@@ -3,9 +3,9 @@
 </h1>
 
 <h1 align="center">
-<img src="Images/logo.png" height="100" width="200"/>
+<img src="Images/logo.png" alt="logo" height="100" width="200"/>
 <br>
-<img src="Images/logo1.png" height="150" width="250"/>
+<img src="Images/logo1.png" alt="logo1" height="150" width="250"/>
 </h1>
 
 <p align="center"><b>Get rid of snap packages and install flatpak apps support</b></p>
@@ -28,9 +28,13 @@ P.S.: This script will work on any other Ubuntu based linux distro using desktop
 
 Clone [this](https://github.com/sudeepbm/snap-to-flatpak.git) repo or download the zip from [releases](https://github.com/sudeepbm/snap-to-flatpak/releases) section and unzip it.
 
+<img src="Images/snap-to-flatpak releases.png" alt="releases"/>
+
 ``` {.bash}
 git clone https://github.com/sudeepbm/snap-to-flatpak.git
 ```
+
+<img src="Images/snap-to-flatpak git clone.png" alt="git clone"/>
 
 Then move to the snap-to-flatpak directory
 
@@ -44,11 +48,15 @@ Make the script executable by the following command.
 chmod +x snap-to-flatpak
 ```
 
+<img src="Images/snap-to-flatpak chmod.png" alt="chmod"/>
+
 Then run `snap-to-flatpak.sh` script as a sudo user.
 
 ``` {.bash}
 sudo ./snap-to-flatpak
 ```
+
+<img src="Images/snap-to-flatpak execute.png" alt="execute"/>
 
 After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`. If you want to terminate the execution of the script at this stage, type `N` or `n` or `NO` or `no`.
 
