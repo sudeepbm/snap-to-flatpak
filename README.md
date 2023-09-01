@@ -1,9 +1,9 @@
-<div class="row">
-  <div class="column">
-    <img src="Images/logo.png" alt="logo" style="width:100%">
+<div id="banner">
+  <div class="inline-block">
+    <img src ="Images/logo.png">
   </div>
-  <div class="column">
-    <img src="Images/logo1.png" alt="logo1" style="width:100%">
+  <div class="inline-block">
+    <img src ="Images/logo1.png">
   </div>
 </div>
 
