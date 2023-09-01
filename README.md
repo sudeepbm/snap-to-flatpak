@@ -1,8 +1,9 @@
-
-<img src="Images/logo.png" align="center" height="100" width="200"/>
-
-<img src="Images/logo1.png" align="center" height="125" width="225"/>
-
+<h1 align="center">
+<img src="Images/logo.png" height="100" width="200"/>
+<br>
+   <br>
+<img src="Images/logo1.png" height="125" width="225"/>
+</h1>
 
 <h1 align="center">
    <b>snap-to-flatpak</b>
