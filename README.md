@@ -1,13 +1,8 @@
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
-  <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-    <img src="Images/logo.png">
-  </div>
-  <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-    <img src="Images/logo1.png">
-  </div>
-</div>
-
 <h1 align="center">
+   <img src="Images/logo.png" alt="unsnap" width="100%" />
+  <br />
+  <img src="Images/logo1.png" alt="unsnap" width="100%" />
+  <br />
   snap-to-flatpak
 </h1>
 
