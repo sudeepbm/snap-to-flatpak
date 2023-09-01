@@ -1,4 +1,9 @@
 <h1 align="center">
+<img src="Images/logo.png"  height="100" width="200"/>
+<img src="Images/logo1.png"  height="100" width="175"/>
+</h1>
+
+<h1 align="center">
    <b>snap-to-flatpak</b>
 </h1>
 
