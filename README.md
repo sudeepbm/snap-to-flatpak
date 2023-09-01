@@ -1,7 +1,7 @@
 <h1 align="center">
-   <img src="Images/logo.png" alt="unsnap" width="50%" />
+   <img src="Images/logo.png" alt="unsnap" height="150" width="300" align="left" />
   <br />
-  <img src="Images/logo1.png" alt="unsnap" width="50%" />
+  <img src="Images/logo1.png" alt="unsnap" height="150" width="300" align="right" />
   <br />
   snap-to-flatpak
 </h1>
