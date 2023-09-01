@@ -64,7 +64,7 @@ _**Note : This script will delete all data of snap packages and will not be reco
 
 ## Feedback
 
-If you have any feedback, please reach out to me at [Mail]() 
+If you have any feedback, please reach out to me at [Mail](mailto:contact-me_github.w4cp8@aleeas.com) 
 
 ## Authors
 
