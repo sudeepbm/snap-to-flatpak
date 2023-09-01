@@ -28,13 +28,13 @@ P.S.: This script will work on any other Ubuntu based linux distro using desktop
 
 Clone [this](https://github.com/sudeepbm/snap-to-flatpak.git) repo or download the zip from [releases](https://github.com/sudeepbm/snap-to-flatpak/releases) section and unzip it.
 
-<img src="Images/snap-to-flatpak releases.png" alt="releases"/>
+<img src="Images/snap-to-flatpak releases.png" alt="releases" align="center"/>
 
 ``` {.bash}
 git clone https://github.com/sudeepbm/snap-to-flatpak.git
 ```
 
-<img src="Images/snap-to-flatpak git clone.png" alt="git clone"/>
+<img src="Images/snap-to-flatpak git clone.png" alt="git clone" align="center"/>
 
 Then move to the snap-to-flatpak directory
 
@@ -48,7 +48,7 @@ Make the script executable by the following command.
 chmod +x snap-to-flatpak
 ```
 
-<img src="Images/snap-to-flatpak chmod.png" alt="chmod"/>
+<img src="Images/snap-to-flatpak chmod.png" alt="chmod" align="center"/>
 
 Then run `snap-to-flatpak.sh` script as a sudo user.
 
@@ -58,7 +58,7 @@ sudo ./snap-to-flatpak
 
 After this confirm to execute the script by typing `Y` or `y` or `YES` or `yes`. If you want to terminate the execution of the script at this stage, type `N` or `n` or `NO` or `no`.
 
-<img src="Images/snap-to-flatpak execute.png" alt="execute"/>
+<img src="Images/snap-to-flatpak execute.png" alt="execute" align="center"/>
 
 Note : Please make sure to execute this script as a sudo user.
 
@@ -73,6 +73,8 @@ Note : Please make sure to execute this script as a sudo user.
 1. **[`Flatpak`](https://flatpak.org)** support will be added by installing flatpak plugin for the gnome software centre and adding the flatpak repo.
 
 1. Wait patiently for the script to complete it's work.
+
+<img src="Images/script complete.png" alt="script complete" align="center"/>
 
 _**Note : This script will delete all data of snap packages and will not be recoverable unless you have taken an earlier backup**_
 
