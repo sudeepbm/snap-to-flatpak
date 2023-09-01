@@ -62,12 +62,24 @@ Note : Please make sure to execute this script as a sudo user.
 
 _**Note : This script will delete all data of snap packages and will not be recoverable unless you have taken an earlier backup**_
 
+## Feedback
+
+If you have any feedback, please reach out to me at [Mail]() 
+
+## Authors
+
+- [@sudeepbm](https://www.github.com/sudeepbm) 
+
 ## Friendly notice
 
 **It is important to clarify that the intention here is not to criticize the quality of Snaps or to cause any form of harm. The provided script intends to offer assistance to individuals who hold a preference for Flatpaks.**
 
 ## Disclaimer
 This script is provided as-is. Use it at your own risk. it worked on my system so idk if it will work on yours.
+
+## Licence
+
+Licensed under [MIT LICENCE](licence)
 
 ##
 
