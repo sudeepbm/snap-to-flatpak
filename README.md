@@ -23,6 +23,7 @@ This script has been tested on `Ubuntu linux 23.04`. This script will work on an
 
 P.S.: This script will work on any other Ubuntu based linux distro using desktop managers other than 'gnome' but be prepared for the 'gtk apps'.
 
+If you need `kde software center` instead of gnome software center, you can check out [this repo](https://github.com/sudeepbm/snap-to-flatpak-kde).
 
 ## Running the script
 
